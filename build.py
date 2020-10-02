@@ -122,3 +122,4 @@ def main():
         deploy(args.image_prefix, images, args.release, args.install)
 
 main()
+    print editing
